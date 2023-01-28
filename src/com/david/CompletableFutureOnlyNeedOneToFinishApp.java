@@ -3,8 +3,6 @@ package com.david;
 import java.time.LocalDateTime;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 import static com.david.LongRunningProcess.logCurrentThread;
 

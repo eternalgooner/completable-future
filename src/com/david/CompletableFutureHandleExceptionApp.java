@@ -1,7 +1,6 @@
 package com.david;
 
 import java.time.LocalDateTime;
-import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 
 import static com.david.LongRunningProcess.logCurrentThread;
